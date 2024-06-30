@@ -1,5 +1,5 @@
 # rokomari_scrapper
-Here I have created a <b>Web Scrapper</b> using <b>BeautifulSoup4</b> package of python. This scrapper will take - "Name of the Publisher" (for example: "Agami") from User as input and will bring all the informations (Book Title, Author, Publisher, ISBN Number, Edition, Country, Language, Summary) of all the books of that publication from rokomari.com. Then it will create a .csv file of that books and their information and will save the file in the same directiory where the script.py is kept.
+Here I have created a <b>Web Scrapper</b> using <b>BeautifulSoup4</b> package of python. This scrapper will take - "Name of the Publisher" (for example: "Agami") from User as input and will bring all the informations (Book Title, Author, Publisher, ISBN Number, Edition, Country, Language, Summary) of all the books of that publication from rokomari.com. Then it will create a .csv file of that books and their information and will save the file in the same directiory where the script.py is kept. And it will also save the book cover image in .jpg format in the publisher name directory
 
 To use this scrapper, 
 - clone this repository
